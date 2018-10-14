@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1499491890 source:c:\2_1tank_alpha_versia\bullshit.cpp
+	"bullshit.hpp"
+	<stdio.h>
+	<GL/glut.h>
+
+1495726797 c:\2_1tank_alpha_versia\bullshit.hpp
+
+1500042217 source:c:\2_1tank_alpha_versia\main.cpp
+	<GL/glut.h>
+	<GL/GLAux.h>
+	<stdio.h>
+	<windows.h>
+	"bullshit.hpp"
+
